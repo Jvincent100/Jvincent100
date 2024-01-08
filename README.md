@@ -2,18 +2,28 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 <ul>
-<li>Html</li>
-<li>Css</li>
-<li>C++</li>
-<li>Java</li>
+<b><li>Html Projects</li></b>
+  <ol>
+    <li>2.10 LAB: News article (HTML)
+    <li>2.11 LAB: Hometown web page (HTML)</li>
+</ul>
+  </ol>
+<ul>
+<li>Css Projects</li>
+</ul>
+<ul>
+<li>C++ Projeccts</li>
+  </ul>
+    <ul>
+<li>Java Projects</li>
 </ul>
 
-<h2> 🤳 Connect with me:</h2>
+
 
 
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jvincent100/jvincent100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
