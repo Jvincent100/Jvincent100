@@ -1,8 +1,12 @@
-<h1>Hi, I'm Joshua! <br/><a href="https://github.com/jvincent100">Programmer</a>,Software engineer Professional</a></h1>
+<h1>Hello, I'm Joshua! <br/><a href="https://github.com/jvincent100">Programmer</a>,Software engineer Professional</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-
-
+<ul>
+<li>Html</li>
+<li>Css</li>
+<li>C++</li>
+<li>Java</li>
+</ul>
 
 <h2> 🤳 Connect with me:</h2>
 
