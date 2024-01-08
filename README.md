@@ -3,11 +3,11 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 <ul>
 <b><li>Html Projects</li></b>
-  <ol>
+  <ul>
     <li>2.10 LAB: News article (HTML)
     <li>2.11 LAB: Hometown web page (HTML)</li>
 </ul>
-  </ol>
+  </ul>
 <ul>
 <li>Css Projects</li>
 </ul>
