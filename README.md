@@ -5,7 +5,7 @@
 <b><li>Html Projects</li></b>
   <ul>
     <li>2.10 LAB: News article (HTML)
-    <li>2.11 LAB: Hometown web page (HTML)</li>
+    <li>2.11 LAB: Hometown web page (HTML) 2.11-LAB-Hometown-web-page-HTML- </li>
 </ul>
   </ul>
 <ul>
