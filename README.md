@@ -4,7 +4,7 @@
 <ul>
 <b><li>Html Projects</li></b>
   <ul>
-    <li> <a href="https://github.com/Jvincent100/2.10-LAB-News-article-HTML-">2.10 LAB: News article (HTML)</a><li>
+    <li> <a href="https://github.com/Jvincent100/2.10-LAB-News-article-HTML-">2.10 LAB: News article (HTML)</a></li>
     <li>2.11 LAB: Hometown web page (HTML) </li>
 </ul>
   </ul>
