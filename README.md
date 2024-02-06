@@ -7,6 +7,7 @@
     <li> <a href="https://github.com/Jvincent100/2.10-LAB-News-article-HTML-">2.10 LAB: News article (HTML)</a></li>
     <li> <a href="https://github.com/Jvincent100/2.11-LAB-Hometown-web-page-HTML-">2.11 LAB: Hometown web page (HTML)</a> </li>
     <li> <a href="https://github.com/Jvincent100/2.12-LAB-Photo-gallery-table-HTML-">2.12 LAB: Photo gallery table (HTML)</li>
+    <li> <a href="https://github.com/Jvincent100/3.11-LAB-Form-for-joining-a-social-network-HTML-">3.11 LAB: Form for joining a social network (HTML)</li>
 </ul>
   </ul>
 <ul>
