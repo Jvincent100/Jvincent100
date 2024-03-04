@@ -15,6 +15,7 @@
 <li>Css Projects</li>
   <li> <a href="https://github.com/Jvincent100/5.9-LAB-News-article-CSS-">5.9 LAB: News article (CSS)</a></li>
   <li> <a href="https://github.com/Jvincent100/5.10-LAB-Auto-loan-CSS-">5.10 LAB: Auto loan (CSS)</a></li>
+  <li> <a href="https://github.com/Jvincent100/6.13-LAB-Recipe-with-flexbox">6.13 LAB: Recipe with flexbox</a></li>
 </ul>
 <ul>
 <li>C++ Projeccts</li>
