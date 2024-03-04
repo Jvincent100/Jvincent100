@@ -2,28 +2,29 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 <ul>
-<b><li>Html Projects</li></b>
+<li>Html Projects
   <ul>
     <li> <a href="https://github.com/Jvincent100/2.10-LAB-News-article-HTML-">2.10 LAB: News article (HTML)</a></li>
     <li> <a href="https://github.com/Jvincent100/2.11-LAB-Hometown-web-page-HTML-">2.11 LAB: Hometown web page (HTML)</a> </li>
     <li> <a href="https://github.com/Jvincent100/2.12-LAB-Photo-gallery-table-HTML-">2.12 LAB: Photo gallery table (HTML)</li>
     <li> <a href="https://github.com/Jvincent100/3.11-LAB-Form-for-joining-a-social-network-HTML-">3.11 LAB: Form for joining a social network (HTML)</li>
     <li> <a href="https://github.com/Jvincent100/3.12-LAB-Happy-birthday-message-creator-HTML-">3.12 LAB: Happy birthday message creator (HTML)</li>
-</ul>
+    </li>
   </ul>
-<ul>
-<li>Css Projects</li>
+<li>Css Projects
+  <ul>
   <li> <a href="https://github.com/Jvincent100/5.9-LAB-News-article-CSS-">5.9 LAB: News article (CSS)</a></li>
   <li> <a href="https://github.com/Jvincent100/5.10-LAB-Auto-loan-CSS-">5.10 LAB: Auto loan (CSS)</a></li>
   <li> <a href="https://github.com/Jvincent100/6.13-LAB-Recipe-with-flexbox">6.13 LAB: Recipe with flexbox</a></li>
   <li> <a href="https://github.com/Jvincent100/6.14-LAB-Tic-tac-toe-game-with-grid-layout">6.14 LAB: Tic-tac-toe game with grid layout</a></li>
   <li> <a href="https://github.com/Jvincent100/6.15-LAB-Position-the-playing-cards">6.15 LAB: Position the playing cards</a></li>
+</li>
 </ul>
+<li>C++ Projeccts
 <ul>
-<li>C++ Projeccts</li>
+
   </ul>
-    <ul>
-<li>Java Projects</li>
+<li>Java Projects
 </ul>
 
 
