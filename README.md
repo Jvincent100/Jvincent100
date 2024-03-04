@@ -22,6 +22,7 @@
 </ul>
 <li>C++ Projeccts
 <ul>
+<li> <a href="https://github.com/Jvincent100/2.18-LAB-Input-and-formatted-output-House-real-estate-summary">2.18 LAB: Input and formatted output: House real estate summary</a></li>
 
   </ul>
 <li>Java Projects
