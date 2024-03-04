@@ -17,6 +17,7 @@
   <li> <a href="https://github.com/Jvincent100/5.10-LAB-Auto-loan-CSS-">5.10 LAB: Auto loan (CSS)</a></li>
   <li> <a href="https://github.com/Jvincent100/6.13-LAB-Recipe-with-flexbox">6.13 LAB: Recipe with flexbox</a></li>
   <li> <a href="https://github.com/Jvincent100/6.14-LAB-Tic-tac-toe-game-with-grid-layout">6.14 LAB: Tic-tac-toe game with grid layout</a></li>
+  <li> <a href="https://github.com/Jvincent100/6.15-LAB-Position-the-playing-cards">6.15 LAB: Position the playing cards</a></li>
 </ul>
 <ul>
 <li>C++ Projeccts</li>
