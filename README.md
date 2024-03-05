@@ -24,6 +24,7 @@
 <ul>
 <li> <a href="https://github.com/Jvincent100/2.18-LAB-Input-and-formatted-output-House-real-estate-summary">2.18 LAB: Input and formatted output: House real estate summary</a></li>
 <li> <a href="https://github.com/Jvincent100/3.28-LAB-Simple-statistics/tree/main">3.28 LAB: Simple statistics</a></li>
+<li> <a href="https://github.com/Jvincent100/4.22-LAB-Smallest-number/tree/main">4.22 LAB: Smallest number</a></li>
   </ul>
 <li>Java Projects
 </ul>
