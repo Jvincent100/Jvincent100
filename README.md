@@ -6,9 +6,9 @@
   <ul>
     <li> <a href="https://github.com/Jvincent100/2.10-LAB-News-article-HTML-">2.10 LAB: News article (HTML)</a></li>
     <li> <a href="https://github.com/Jvincent100/2.11-LAB-Hometown-web-page-HTML-">2.11 LAB: Hometown web page (HTML)</a> </li>
-    <li> <a href="https://github.com/Jvincent100/2.12-LAB-Photo-gallery-table-HTML-">2.12 LAB: Photo gallery table (HTML)</li>
-    <li> <a href="https://github.com/Jvincent100/3.11-LAB-Form-for-joining-a-social-network-HTML-">3.11 LAB: Form for joining a social network (HTML)</li>
-    <li> <a href="https://github.com/Jvincent100/3.12-LAB-Happy-birthday-message-creator-HTML-">3.12 LAB: Happy birthday message creator (HTML)</li>
+    <li> <a href="https://github.com/Jvincent100/2.12-LAB-Photo-gallery-table-HTML-">2.12 LAB: Photo gallery table (HTML)</a></li>
+    <li> <a href="https://github.com/Jvincent100/3.11-LAB-Form-for-joining-a-social-network-HTML-">3.11 LAB: Form for joining a social network (HTML)</a></li>
+    <li> <a href="https://github.com/Jvincent100/3.12-LAB-Happy-birthday-message-creator-HTML-">3.12 LAB: Happy birthday message creator (HTML)</a></li>
     </li>
   </ul>
 <li>Css Projects
@@ -27,6 +27,7 @@
  <li> <a href="https://github.com/Jvincent100/4.22-LAB-Smallest-number/tree/main">4.22 LAB: Smallest number (BRANCHES)</a></li>
  <li> <a href="https://github.com/Jvincent100/4.23-LAB-Interstate-highway-numbers">4.23 LAB: Interstate highway numbers (BRANCHES)</a></li>
  <li> <a href="https://github.com/Jvincent100/5.19-LAB-Print-string-in-reverse/tree/main">5.19 LAB: Print string in reverse (LOOPS)</a></li>
+ <li> <a href="https://github.com/Jvincent100/6.19-LAB-Middle-item/tree/main">6.19 LAB: Middle item (ARRAYS/VECTORS)</li>
   
  </ul>
 <li>Java Projects
