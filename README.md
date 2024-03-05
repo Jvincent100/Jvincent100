@@ -26,6 +26,7 @@
  <li> <a href="https://github.com/Jvincent100/3.28-LAB-Simple-statistics/tree/main">3.28 LAB: Simple statistics</a></li>
  <li> <a href="https://github.com/Jvincent100/4.22-LAB-Smallest-number/tree/main">4.22 LAB: Smallest number</a></li>
  <li> <a href="https://github.com/Jvincent100/4.23-LAB-Interstate-highway-numbers">4.23 LAB: Interstate highway numbers</a></li>
+ <li> <a href="https://github.com/Jvincent100/5.19-LAB-Print-string-in-reverse/tree/main">5.19 LAB: Print string in reverse</a></li>
   
  </ul>
 <li>Java Projects
