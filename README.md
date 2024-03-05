@@ -24,9 +24,9 @@
 <ul>
  <li> <a href="https://github.com/Jvincent100/2.18-LAB-Input-and-formatted-output-House-real-estate-summary">2.18 LAB: Input and formatted output: House real estate summary</a></li>
  <li> <a href="https://github.com/Jvincent100/3.28-LAB-Simple-statistics/tree/main">3.28 LAB: Simple statistics</a></li>
- <li> <a href="https://github.com/Jvincent100/4.22-LAB-Smallest-number/tree/main">4.22 LAB: Smallest number</a></li>
- <li> <a href="https://github.com/Jvincent100/4.23-LAB-Interstate-highway-numbers">4.23 LAB: Interstate highway numbers</a></li>
- <li> <a href="https://github.com/Jvincent100/5.19-LAB-Print-string-in-reverse/tree/main">5.19 LAB: Print string in reverse</a></li>
+ <li> <a href="https://github.com/Jvincent100/4.22-LAB-Smallest-number/tree/main">4.22 LAB: Smallest number (BRANCHES)</a></li>
+ <li> <a href="https://github.com/Jvincent100/4.23-LAB-Interstate-highway-numbers">4.23 LAB: Interstate highway numbers (BRANCHES)</a></li>
+ <li> <a href="https://github.com/Jvincent100/5.19-LAB-Print-string-in-reverse/tree/main">5.19 LAB: Print string in reverse (LOOPS)</a></li>
   
  </ul>
 <li>Java Projects
