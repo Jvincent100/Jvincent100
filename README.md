@@ -13,6 +13,7 @@
   </ul>
 <li>Css Projects
   <ul>
+  <li> <a href="https://github.com/Jvincent100/2.19-LAB-Input-and-formatted-output-Right-facing-arrow">2.19 LAB: Input and formatted output: Right-facing arrow</a></li>
   <li> <a href="https://github.com/Jvincent100/5.9-LAB-News-article-CSS-">5.9 LAB: News article (CSS)</a></li>
   <li> <a href="https://github.com/Jvincent100/5.10-LAB-Auto-loan-CSS-">5.10 LAB: Auto loan (CSS)</a></li>
   <li> <a href="https://github.com/Jvincent100/6.13-LAB-Recipe-with-flexbox">6.13 LAB: Recipe with flexbox</a></li>
