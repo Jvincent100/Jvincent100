@@ -29,6 +29,7 @@
  <li> <a href="https://github.com/Jvincent100/4.23-LAB-Interstate-highway-numbers">4.23 LAB: Interstate highway numbers (BRANCHES)</a></li>
  <li> <a href="https://github.com/Jvincent100/5.19-LAB-Print-string-in-reverse/tree/main">5.19 LAB: Print string in reverse (LOOPS)</a></li>
  <li> <a href="https://github.com/Jvincent100/6.19-LAB-Middle-item/tree/main">6.19 LAB: Middle item (ARRAYS/VECTORS)</li>
+<li> <a href="https://github.com/Jvincent100/JYM1-Task-1-Class-Roster">JYM1 Task 1: Class Roster</li>
   
  </ul>
 <li>Java Projects
