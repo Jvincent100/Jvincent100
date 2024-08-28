@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 <ul>
-<li>Html Projects
+<li> Html Projects 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html sign" width="50" height="50" style="vertical-align: middle; margin-left: 10px;">
   <ul>
     <li> <a href="https://github.com/Jvincent100/2.10-LAB-News-article-HTML-">2.10 LAB: News article (HTML)</a></li>
     <li> <a href="https://github.com/Jvincent100/2.11-LAB-Hometown-web-page-HTML-">2.11 LAB: Hometown web page (HTML)</a> </li>
@@ -12,6 +13,7 @@
     </li>
   </ul>
 <li>Css Projects
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css sign" width="50" height="50" style="vertical-align: middle; margin-left: 10px;">
   <ul>
   <li> <a href="https://github.com/Jvincent100/2.19-LAB-Input-and-formatted-output-Right-facing-arrow">2.19 LAB: Input and formatted output: Right-facing arrow</a></li>
   <li> <a href="https://github.com/Jvincent100/5.9-LAB-News-article-CSS-">5.9 LAB: News article (CSS)</a></li>
@@ -22,6 +24,7 @@
 </li>
 </ul>
 <li>C++ Projeccts
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++ sign" width="50" height="50" style="vertical-align: middle; margin-left: 10px;">
 <ul>
  <li> <a href="https://github.com/Jvincent100/2.18-LAB-Input-and-formatted-output-House-real-estate-summary">2.18 LAB: Input and formatted output: House real estate summary</a></li>
  <li> <a href="https://github.com/Jvincent100/3.28-LAB-Simple-statistics/tree/main">3.28 LAB: Simple statistics (VARIABLES/ASSIGNMENTS)</a></li>
@@ -33,6 +36,10 @@
   
  </ul>
 <li>Java Projects
+  <img src="https://e7.pngegg.com/pngimages/640/199/png-clipart-javascript-logo-html-javascript-logo-angle-text.png" alt="javascript sign" width="50" height="50" style="vertical-align: middle; margin-left: 10px;">
+  <ul>
+    
+  </ul>
 </ul>
 
 
