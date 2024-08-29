@@ -36,7 +36,7 @@
   
  </ul>
 <li>Java Projects
-  <img src="https://e7.pngegg.com/pngimages/640/199/png-clipart-javascript-logo-html-javascript-logo-angle-text.png" alt="javascript sign" width="50" height="50" style="vertical-align: middle; margin-left: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript sign" width="50" height="50" style="vertical-align: middle; margin-left: 10px;">
   <ul>
     
   </ul>
