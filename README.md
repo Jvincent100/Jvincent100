@@ -38,7 +38,8 @@
 <li>Java Projects
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="50" height="50" style="vertical-align: middle; margin-left: 10px;">
   <ul>
-    
+    <li> <a href="https://github.com/Jvincent100/ALN2-Task-1-Web-Based-Sprint-Inventory-Application/tree/main">ALN2 — ALN2 Task 1: Web-Based Sprint Inventory Application
+(Java Frameworks — D287 - Final) </li>
   </ul>
 </ul>
 
