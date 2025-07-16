@@ -39,16 +39,24 @@
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="50" height="50" style="vertical-align: middle; margin-left: 10px;">
   <ul>
     <li> <a href="https://github.com/Jvincent100/ALN2-Task-1-Web-Based-Sprint-Inventory-Application/tree/main">ALN2 — ALN2 Task 1: Web-Based Sprint Inventory Application
-(Java Frameworks — D287 - Final) </li>
+(Java Frameworks — D287 - Final)
+    </a>
+    </li>
   </ul>
-</ul>
 
 <li>
-  <span style="display: flex; align-items: center;">
-    Python Projects
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50" style="margin-left: 10px;">
-  </span>
+  Python Projects
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" width="30" height="30" style="vertical-align: middle; margin-left: 10px;">
+  <ul>
+    <li>
+      <a href="https://github.com/Jvincent100/NHP3-Task-WGUPS-Routing-Program-Implementation/tree/main">
+        NHP3 — NHP3 Task 1 &amp; 2: WGUPS Routing Program Planning (Data Structures and Algorithms II - C950)
+      </a>
+    </li>
+  </ul>
 </li>
+
+
 
 
 
