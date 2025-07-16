@@ -23,7 +23,7 @@
   <li> <a href="https://github.com/Jvincent100/6.15-LAB-Position-the-playing-cards">6.15 LAB: Position the playing cards</a></li>
 </li>
 </ul>
-<li>C++ Projeccts
+<li>C++ Projects
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++ sign" width="50" height="50" style="vertical-align: middle; margin-left: 10px;">
 <ul>
  <li> <a href="https://github.com/Jvincent100/2.18-LAB-Input-and-formatted-output-House-real-estate-summary">2.18 LAB: Input and formatted output: House real estate summary</a></li>
@@ -42,6 +42,13 @@
 (Java Frameworks — D287 - Final) </li>
   </ul>
 </ul>
+
+<li>
+  <span style="display: flex; align-items: center;">
+    Python Projects
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50" style="margin-left: 10px;">
+  </span>
+</li>
 
 
 
